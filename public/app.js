@@ -1,0 +1,1 @@
+angular.module("stenotypeEmporium", ['firebase']);
